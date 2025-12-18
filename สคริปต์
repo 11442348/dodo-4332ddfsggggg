@@ -1,5 +1,0 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("", "DarkTheme")
-local Tab = Window:NewTab("ล็อกหัว")
-local Section = Tab:NewSection("Section Name")
-Section:NewLabel("hitboxของกูเอง")loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Update-script-hitbox-9326"))()
